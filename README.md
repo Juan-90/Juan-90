@@ -2,12 +2,9 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/Juan-90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-90&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+<div img align= "center">
+  <img src= "https://assets.website-files.com/6026d425b6d9d8a3eacdbfc8/62bc80b737040e2b44e74157_hommer%20programador.gif"
+ </div>
 
    
 <div style="display: inline_block"><br>
